@@ -1,3 +1,6 @@
+// Created by Vincent Saw
+// GitHub: @vsawce
+
 #ifndef MAX7219_8DIGIT_H
 #define MAX7219_8DIGIT_H
 
